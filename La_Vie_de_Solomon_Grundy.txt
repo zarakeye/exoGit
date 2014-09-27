@@ -7,3 +7,4 @@ Marié un mercredi,
 Malade un jeudi,
 À l'agonie un vendredi,
 Mort un samedi,
+Enterré un dimanche.
